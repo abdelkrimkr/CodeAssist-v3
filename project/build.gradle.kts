@@ -8,8 +8,8 @@ dependencies {
 
     implementation(project(":javac"))
 
-    implementation("com.google.auto.value:auto-value-annotations:1.8.2")
-    annotationProcessor("com.google.auto.value:auto-value:1.8.2")
+    implementation("com.google.auto.value:auto-value-annotations:1.10.4")
+    annotationProcessor("com.google.auto.value:auto-value:1.10.4")
 
     implementation("org.slf4j:slf4j-api:2.0.10")
     implementation("ch.qos.logback:logback-classic:1.4.11")

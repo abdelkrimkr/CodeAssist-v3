@@ -12,9 +12,9 @@ dependencies {
     implementation("org.slf4j:slf4j-api:2.0.10")
     implementation("org.jetbrains:annotations:24.1.0")
 
-    implementation("com.google.auto.value:auto-value-annotations:1.8.2")
+    implementation("com.google.auto.value:auto-value-annotations:1.10.4")
     testImplementation(project(mapOf("path" to ":project-impl")))
-    annotationProcessor("com.google.auto.value:auto-value:1.8.2")
+    annotationProcessor("com.google.auto.value:auto-value:1.10.4")
 
     implementation(project(":project"))
     implementation(project(":javac"))
