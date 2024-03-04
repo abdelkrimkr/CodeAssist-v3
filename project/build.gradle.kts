@@ -12,7 +12,7 @@ dependencies {
     annotationProcessor("com.google.auto.value:auto-value:1.8.2")
 
     implementation("org.slf4j:slf4j-api:2.0.10")
-    implementation("ch.qos.logback:logback-classic:1.4.11")
+    implementation("ch.qos.logback:logback-classic:1.5.2")
 
     implementation("org.jetbrains:annotations:24.1.0")
 
