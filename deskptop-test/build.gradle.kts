@@ -21,7 +21,7 @@ dependencies {
     implementation("io.insert-koin:koin-core:3.5.3")
 
     implementation("com.github.Col-E:tiwulfx-dock:1.2.3")
-    implementation("ch.qos.logback:logback-classic:1.4.11")
+    implementation("ch.qos.logback:logback-classic:1.5.3")
 
     implementation("org.fxmisc.richtext:richtextfx:0.11.2")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.15.2")
