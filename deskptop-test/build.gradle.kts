@@ -24,7 +24,7 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.4.11")
 
     implementation("org.fxmisc.richtext:richtextfx:0.11.2")
-    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.15.2")
+    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.17.0")
     implementation("com.github.tommyettinger:regexodus:0.1.15")
     implementation("org.kordamp.ikonli:ikonli-javafx:12.3.1")
     implementation("org.kordamp.ikonli:ikonli-carbonicons-pack:12.3.1")
